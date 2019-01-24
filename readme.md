@@ -1,0 +1,1 @@
+Simple producer-consumer application. Producer sends messages to consumer, and consumer logs message in console.
